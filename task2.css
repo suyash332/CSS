@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    height: 720px;
+    width: 1500px;
+    border: 2px solid rebeccapurple;
+   background-image: linear-gradient(blue, pink);
+}
+.container2{
+    height: 500px;
+    width: 1000px;
+    background-color: lightblue;
+    margin-top: 110px;
+    margin-left: 250px;
+    position: relative;
+}
+.container3{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    margin: 50px 300px;
+    position: absolute;
+}
+h1{
+    position: relative ;
+    left: 50px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    color: lightblue;
+    
+}
+form{
+    position: relative;
+    left: 100px;
+}
+.bo{
+    width: 210px;
+    height:40px;
+    background-color: lightblue;
+}
+form button{
+    color: white;
+}
+form input{
+    height: 20px;
+    width: 200px;
+}
+
+form input{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}

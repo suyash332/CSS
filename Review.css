@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 707px;
+    width: 1600px;
+    border: 2px solid black;
+    background-color: gray;
+    text-align: center;
+}
+.bg{
+    color: white;
+}

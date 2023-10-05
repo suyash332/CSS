@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+
+    height: 700px;
+    width: 1410px;
+    border: 2px solid blue;
+    display: flex;
+
+}
+.card{
+    height: 700px;
+    width: 350px;
+    border: 2px solid palevioletred;
+}
+.pict{
+    height: 298px;
+    width : 350px;
+    border: 2px solid red;
+}
+.heading{
+    height: 98px;
+    width: 350px;
+    border: 2px solid brown;
+}
+.para{
+    height: 295px;
+    width: 350px;
+    border: 2px solid yellowgreen;
+}
+.pict img{
+    height: 298px;
+    width : 350px;
+
+}
+
+.heading h1{
+    color: orange;
+
+    
+}
+.heading h1{
+    padding: 20px 95px;
+}
+
+.para p{
+    padding: 80px 20px;
+}

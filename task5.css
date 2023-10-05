@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 700px;
+    width: 1200px;
+    background-color: black;
+
+}
+.container h3{
+    color: red;
+}
+.container h3{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+h1{
+    color: white;
+    margin-left: 20px;
+    margin-top: 200px;
+}
+.container2{
+    width: 400px;
+    height: 300px;
+    color: grey;
+    margin-top: -100px;
+    margin-left: 650px ;
+    background-color: grey;
+    position: relative;
+}
+.container2h{
+    width: 382px;
+    height: 282px;
+    border: 2px solid white;
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 6px;
+}
+.container2h1{
+    height: 278px;
+    width: 191px;
+    border :1px solid grey;
+    margin-left: 100px;
+}
+.container2h11
+{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 43px;
+    background-image: url(pexels-senuscape-1658967.jpg);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+
+}
+.h31{
+    margin-left: -14px;
+}
+h6{
+    color: white;
+    
+    margin-left: 20px;
+}
+
+.h66{
+    margin-top:40px ;
+
+}
+span {
+    color: red;
+}
+.icontainer{
+    height: 100px;
+    width: 1200px;
+    border: 1px solid black;
+}
+.icontainer2{
+    height: 80ppx;
+    width: 530px;
+    border: 1px solid black;
+    margin-top: -40px;
+    margin-left: 550px;
+
+}
+.icontainer2{
+    padding-left: 110px;
+    padding-top: 20px;
+}
+.a2{
+    margin-left: 130px;
+    text-decoration: none;
+    color: white;
+}
+.a3{
+    margin-left: 130px;
+    text-decoration: none;
+    color: white;
+}
+.a1{
+    text-decoration: none;
+    color: white;
+}
+.but1
+{
+    margin-left: 60px;
+    margin-top: -30px;
+    height: 30px;
+    width: 70px;
+    background-color: darkmagenta;
+    color: white;
+    border: 1px solid darkmagenta;
+
+}
+
