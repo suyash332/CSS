@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    border: 2px solid burlywood;
+}
+.box2{
+
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 30px;
+}
+.box3{
+    height: 70px;
+    width: 70px;
+    background-color: brown;
+    margin: 20px 20px;
+}
+.box4{
+    height: 50px;
+    width: 30;
+    background-color: black;
+    margin: 15px 10px 7px 10px ;
+}
+.box5{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    
+}
+.box5 p{
+    padding: 30px; 
+}
+.box6{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    
+}
+.box6 p{
+    padding: 20px 40px;
+}
+
+.box7{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+
+}
+.box7 p{
+    padding: 20px 30px 25px 15px;
+
+}
+.box8{
+    height: 100px;
+    width: 80px;
+    border: 2px solid black;
+
+    
+}
+.box9{
+    height: 80px;
+    width: 60px;
+    border: 2px solid red;
+    margin: 10px 10px;
+
+    
+}
+.box9 p{
+    padding: 20px 20px;
+}
+.box10{
+    height: 90px;
+    width: 80px;
+    border: 2px solid red;
+
+}
+
+.box11{
+    height:70px;
+    width: 60px;
+    border: 2px solid black;
+    margin: 20px 20px 20px 20px;
+
+}
+.box11 p{
+    padding: 20px 20px 20px 20px;
+}
+.box12{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 40px 30px;
+    rotate: 45deg;
+}
+.box13{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow ;
+
+    position: relative;
+
+}
+.box14{
+    height:70px;
+    width: 70px;
+    background-color: black;
+    margin: 15px;
+    position: absolute;
+
+}
+p{
+    column-count: 3;
+    column-rule: 5px solid black;
+    column-width: 100px;
+    column-gap: 30px;
+    column-fill: balance;
+    
+
+}
+
+.box15{
+    height: 200px;
+    width: 700px;
+    border: 2px solid red;
+}
+.box16{
+    height: 150px;
+    width: 200px;
+    background-color: blue;
+    margin-left: 25px;
+    float: left;
+
+}
+h1:hover {
+    color: red;
+}
+
+h1{
+    font-family: 'Julee', cursive;
+}
+h2{
+    font-family: 'Julee', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.icon{
+    font-size: 100px;
+    color: brown;
+}
+
+

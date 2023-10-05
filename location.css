@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.loc1{
+    width: 1510px;
+    height: 725px;
+    border: 1px solid black;
+}

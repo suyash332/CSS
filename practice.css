@@ -1,0 +1,55 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.container1{
+
+    height: 900px;
+    width: 1500px;
+    background-color: bisque;
+
+}
+.container2{
+    height:100px;
+    width:1000px;
+    border:2px solid black;
+    padding-left: 500px;
+    padding-top:30px
+}
+.container3{
+    height:770px;
+    width:300px;
+    border:2px solid black;
+    margin-left:1200px
+
+
+}
+.lo{
+    margin-left:60px
+}
+.container4{
+    height:770px;
+    width:300px;
+    border:2px solid black;
+    margin-top:-773px;
+
+}
+.phone{
+    margin-left:30px;
+}
+.container5{
+    height:770px;
+    width:900px;
+    border:2px solid red;
+    margin-top: -773px;
+    margin-left:300px;
+    background-image: url(Vpimage.png);
+    background-repeat: no-repeat;
+    background-size: 900px 770px;
+
+}
+
+
+
+

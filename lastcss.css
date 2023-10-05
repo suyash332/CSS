@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 720px;
+    width: 1500px;
+    border: 2px solid black;
+    background-color: gray;
+}
+.container1{
+    height: 720px;
+    width: 300px;
+
+    margin-top: -724px;
+}
+.containerP{
+    height: 296px;
+    width: 296px;
+    border: 2px solid white;
+    
+}
+.containerIP{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-top: 70px;
+    background-image: url(vpLogo.png);
+    background-repeat: no-repeat;
+    background-size:100px 100px ;
+
+
+}
+.containerPD{
+    height: 416px;
+    width: 296px;
+    border: 2px solid white;
+   margin-top: -420px;
+}
+.containerTL{
+    height: 140px;
+    width: 1193px;
+    border: 2px solid white;
+    margin-left:302px;
+}
+.containerR{
+    height: 568px;
+    width: 294px;
+    margin-left: 1202px;
+    border: 2px solid white;
+    
+
+}
+.Text1{
+    
+    text-align: center;
+}
+.Text2{
+    
+    text-align: center;
+}
+.Icontainer{
+    height: 570px;
+    width: 898px;
+   margin-left: 300px;
+   margin-top: -106px;
+    background-image: url(Vpimage.png);
+    background-repeat: no-repeat;
+    background-size:  898px 570px;
+
+}
+
+.icon {
+    font-size: 70px;
+    margin-left: 120px;
+}
+.containerR h3{
+    text-align: center;
+}
+.Pho{
+    margin-left: 90px;
+    color: white;
+}
+.em{
+    margin-left: 40px;
+    color: white;
+}
+.lo{
+
+    text-decoration: none;
+    margin-left: 100px;
+    color: white;
+}
+.lo1{
+
+    text-decoration: none;
+    margin-left: 110px;
+    color: white;
+}
+.icon1{
+    font-size: 40px;
+    margin-left: 115px;
+}
+.pa{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
